@@ -25,7 +25,9 @@ title: 'Blog Roman Efremov'
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 # github_username: merfemor
-google_site_verification: eWKM8IXeNYAOvexaRcRjsSdlCj4yDkPUHBGoARnwCTA
+webmaster_verifications:
+  google: eWKM8IXeNYAOvexaRcRjsSdlCj4yDkPUHBGoARnwCTA
+  yandex: 43d570d6bdaa63fe
 
 # Build settings
 theme: minima
